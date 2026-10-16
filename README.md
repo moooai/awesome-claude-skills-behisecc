@@ -235,6 +235,11 @@
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
 
+- [moooai/takeout-coupon](https://github.com/moooai/takeout-coupon) - Fetches food-delivery coupons for Meituan, Ele.me/Taobao Shangou and JD Waimai; returns promo codes, claim links and QR codes
+- [moooai/trip-coupon](https://github.com/moooai/trip-coupon) - Travel coupons: Didi ride-hailing bundles and hotel deals from Meituan, Tongcheng and Fliggy
+- [moooai/movie-coupon](https://github.com/moooai/movie-coupon) - Movie ticket coupons from Taopiaopiao and Maoyan, with claim links and QR codes
+- [moooai/parcel-coupon](https://github.com/moooai/parcel-coupon) - Courier coupons for SF Express, ZTO, YTO, Yunda, STO and Cainiao
+- [moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one) - All-in-one coupon fetcher covering takeout, travel, movie and parcel coupons
 ## 📰 Articles & Blog Posts
 
 - [Agent Skills](https://arxiv.org/abs/2602.08004) - Data-driven analysis: the ecosystem, opportunities, and risks behind 40,000+ Claude Skills
